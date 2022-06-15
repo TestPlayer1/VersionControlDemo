@@ -1,3 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Version 1.0");
+
+
+Console.WriteLine("What is your name?");
+String input = Console.ReadLine();
+
+Console.WriteLine("Hello, " + input);
