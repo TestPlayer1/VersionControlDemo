@@ -6,3 +6,5 @@ Console.WriteLine("What is your name?");
 String input = Console.ReadLine();
 
 Console.WriteLine("Hello, " + input);
+
+Console.WriteLine("Hello2");
